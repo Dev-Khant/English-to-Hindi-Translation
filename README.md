@@ -28,4 +28,4 @@ The Epochs are set to 50 with Optimizer as Adam, Loss as sparse_categorical_cros
 Two callback functions Reduce LR on Plateau and Early Stopping are also used.<br><br>
 
 After evaluating on 500 samples the BLEU score was 24.5.<br>
-The BLEU score is not that great but still I learned a lot about Transformer.
+The BLEU score is not that great but still I **learned** a lot about Transformer.
