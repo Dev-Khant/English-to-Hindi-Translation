@@ -9,7 +9,7 @@ It contains around 100K pairs of English and Hindi sentences.<br>
 
 ### Processing Text
 First I have done basic text processing which includes things like lowering of sentences, removing any URLs, removing digits etc.<br>
-[Start] and [End] tags are then added to Hindi Sentences.<br>
+**[Start]** and **[End]** tags are then added to Hindi Sentences.<br>
 TextVectorization from keras is used to create sentence vectors.<br>
 The vocabulary size is 20000 and sentence length is 20.<br>
 
